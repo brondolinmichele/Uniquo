@@ -1,0 +1,12 @@
+Name: ROBOT
+Type: FolderType
+Children:
+- Class: Reference
+  Type: HasComponent
+  Target: g=c040c78253a096e3641627c4d86a5694
+- Class: Reference
+  Type: HasComponent
+  Target: g=62e0b02c554ba3d75785098105ec8b0d
+- Class: Reference
+  Type: HasComponent
+  Target: g=7306ef14af9fef0bb24f4934f7872300

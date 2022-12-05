@@ -1,0 +1,6 @@
+Name: VACUUM
+Type: FolderType
+Children:
+- Class: Reference
+  Type: HasComponent
+  Target: g=6538302d7a3f4876f86be1c0e7bb5c68

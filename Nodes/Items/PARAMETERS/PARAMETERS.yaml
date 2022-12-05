@@ -1,0 +1,8 @@
+Name: PARAMETERS
+Type: FolderType
+Children:
+- File: Graphics/Graphics.yaml
+- File: IOLINK/IOLINK.yaml
+- File: DOSING PUMP/DOSING PUMP.yaml
+- File: ROBOT/ROBOT.yaml
+- File: SBRINAMENTO/SBRINAMENTO.yaml

@@ -47,5 +47,21 @@ Project:
    Uri: 'urn:QPlatform:NetLogic'
    Module: QPlatform.NetLogic
    Version: 6.0.0.152
+  13:
+   Uri: 'urn:QPlatform:CommunicationDriver'
+   Module: QPlatform.CommunicationDriver
+   Version: 6.0.0.5
+  14:
+   Uri: 'urn:QPlatform:CommunicationDriver:Net'
+   Module: QPlatform.CommunicationDriver.Net
+   Version: 5.0.0.6
+  15:
+   Uri: 'urn:QPlatform:S7TCPDriver'
+   Module: QPlatform.S7TCPDriver
+   Version: 5.0.0.6
+  16:
+   Uri: 'urn:QPlatform:S7TCP:Net'
+   Module: QPlatform.S7TCP.Net
+   Version: 5.0.0.4
  Nodes:
  - File: Nodes/Uniquo.yaml

@@ -1,0 +1,9 @@
+Name: SINGLE
+Type: FolderType
+Children:
+- Class: Reference
+  Type: HasComponent
+  Target: g=1f4a5b6368c12f180fd47fca92237552
+- Class: Reference
+  Type: HasComponent
+  Target: g=fc71dcfb9f3953e56ebb86f003b858a8

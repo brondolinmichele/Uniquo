@@ -1,0 +1,5 @@
+Name: PRESSOSTAT
+Type: FolderType
+Children:
+- File: SINGLE/SINGLE.yaml
+- File: DOUBLE/DOUBLE.yaml

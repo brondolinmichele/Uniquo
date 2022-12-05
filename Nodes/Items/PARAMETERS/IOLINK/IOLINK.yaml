@@ -1,0 +1,12 @@
+Name: IOLINK
+Type: FolderType
+Children:
+- File: DP2200/DP2200.yaml
+- File: BASES/BASES.yaml
+- File: LEVEL/LEVEL.yaml
+- File: TEMPERATURE/TEMPERATURE.yaml
+- Class: Reference
+  Type: HasComponent
+  Target: g=07463ea7dcdbad6c58f3cd5c3254781f
+- File: PRESSOSTAT/PRESSOSTAT.yaml
+- File: VACUUM/VACUUM.yaml

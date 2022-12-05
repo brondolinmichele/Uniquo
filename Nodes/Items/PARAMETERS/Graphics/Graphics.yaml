@@ -1,0 +1,24 @@
+Name: Graphics
+Type: FolderType
+Children:
+- Class: Reference
+  Type: HasComponent
+  Target: g=0339a4d8f4f506d95c3a8700834c06e5
+- Class: Reference
+  Type: HasComponent
+  Target: g=6d6e312aa8891eeb9079041322dc4066
+- Class: Reference
+  Type: HasComponent
+  Target: g=de1c408e42f2cd545040e4a9adefd61c
+- Class: Reference
+  Type: HasComponent
+  Target: g=20819cb129be8fc66be2be37adb09e88
+- Class: Reference
+  Type: HasComponent
+  Target: g=bb5429cc0e017142be17f8e9fc76e957
+- Class: Reference
+  Type: HasComponent
+  Target: g=f4c5dd4b19b69afd30b92c4d6f933701
+- Class: Reference
+  Type: HasComponent
+  Target: g=cd4d21dd71abf546bb0fc330c2fdaa3b

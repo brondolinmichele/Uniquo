@@ -1,0 +1,6 @@
+Name: DOUBLE
+Type: FolderType
+Children:
+- Class: Reference
+  Type: HasComponent
+  Target: g=6ad5f71b1dc5cef4d666e1b75faa8b8a

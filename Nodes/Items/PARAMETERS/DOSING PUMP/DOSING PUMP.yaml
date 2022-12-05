@@ -1,0 +1,6 @@
+Name: DOSING PUMP
+Type: FolderType
+Children:
+- Class: Reference
+  Type: HasComponent
+  Target: g=d774c67f84881d5fbc57c97a8b5ac262

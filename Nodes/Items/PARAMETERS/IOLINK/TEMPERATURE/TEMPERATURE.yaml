@@ -1,0 +1,12 @@
+Name: TEMPERATURE
+Type: FolderType
+Children:
+- Class: Reference
+  Type: HasComponent
+  Target: g=6cf36c3f74a0e803c6aa9c027cf83f9e
+- Class: Reference
+  Type: HasComponent
+  Target: g=d28bf4851ad3cbb9d17afd4fa497dbb9
+- Class: Reference
+  Type: HasComponent
+  Target: g=783a3d102507c5e0b1ffe034c44133db
