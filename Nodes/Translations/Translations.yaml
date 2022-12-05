@@ -57,10 +57,18 @@ Children:
   Value: 
    {
     "Type": 12,
-    "Dimensions": [3,3],
+    "Dimensions": [11,3],
     "Body": [
      "Key","it-IT","en-US",
      "HEATING CTRL POS.1","HEATING CTRL POS.1","HEATING CTRL POS.1",
-     "LIFT-OUT","LIFT-OUT","LIFT-OUT"
+     "LIFT-OUT","LIFT-OUT","LIFT-OUT",
+     "_Status_OFF","ARRESTO","STOP",
+     "_Status_ON","MARCIA","RUN",
+     "_Status_Alarm","ALLARME","ALARM",
+     "_Status_Wait","ATTESA CONDIZIONI","WAIT CONDITION",
+     "_FORWARD","AVANTI","FORWARD",
+     "_Status_ON_BKW","INDIETRO","BACKWARD",
+     "OPENING","APERTURA","OPENING",
+     "CLOSING","CHIUSURA","CLOSING"
     ]
    }

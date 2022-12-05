@@ -1190,3 +1190,193 @@ Children:
           Type: BaseDataVariableType
           DataType: LocalizedText
           Value: {"NamespaceIndex":-1,"LocaleId":"","Text":""}
+- Name: MOTOR_Status
+  Type: ObjectLibraryItem
+  Children:
+  - Name: MOTOR_Status
+    Id: g=2dfed55cedc7296b794e05f204c4f2b7
+    Supertype: ValueMapConverter
+    ReferenceType: HasComponent
+    Children:
+    - Name: Pairs
+      Type: BaseObjectType
+      ModellingRule: None
+      Children:
+      - Name: Pair
+        Type: ValueMapPair
+        Children:
+        - Name: Key
+          Type: BaseDataVariableType
+          DataType: UInt32
+          Value: 0
+        - Name: Value
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"NamespaceIndex":4,"TextId":"_Status_OFF"}
+      - Name: Pair1
+        Type: ValueMapPair
+        Children:
+        - Name: Key
+          Type: BaseDataVariableType
+          DataType: UInt32
+          Value: 1
+        - Name: Value
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"NamespaceIndex":4,"TextId":"_Status_ON"}
+      - Name: Pair2
+        Type: ValueMapPair
+        Children:
+        - Name: Key
+          Type: BaseDataVariableType
+          DataType: UInt32
+          Value: 2
+        - Name: Value
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"NamespaceIndex":4,"TextId":"_Status_Alarm"}
+      - Name: Pair3
+        Type: ValueMapPair
+        Children:
+        - Name: Key
+          Type: BaseDataVariableType
+          DataType: UInt32
+          Value: 10
+        - Name: Value
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"NamespaceIndex":4,"TextId":"_Status_Wait"}
+- Name: FWDBKW_MOTOR_Status
+  Type: ObjectLibraryItem
+  Children:
+  - Name: FWDBKW_MOTOR_Status
+    Id: g=6c85592c480f25449bc50f88353d3bec
+    Supertype: ValueMapConverter
+    ReferenceType: HasComponent
+    Children:
+    - Name: Pairs
+      Type: BaseObjectType
+      ModellingRule: None
+      Children:
+      - Name: Pair
+        Type: ValueMapPair
+        Children:
+        - Name: Key
+          Type: BaseDataVariableType
+          DataType: UInt32
+          Value: 0
+        - Name: Value
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"NamespaceIndex":4,"TextId":"_Status_OFF"}
+      - Name: Pair1
+        Type: ValueMapPair
+        Children:
+        - Name: Key
+          Type: BaseDataVariableType
+          DataType: UInt32
+          Value: 1
+        - Name: Value
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"NamespaceIndex":4,"TextId":"_Status_ON"}
+      - Name: Pair2
+        Type: ValueMapPair
+        Children:
+        - Name: Key
+          Type: BaseDataVariableType
+          DataType: UInt32
+          Value: 2
+        - Name: Value
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"NamespaceIndex":4,"TextId":"_Status_Alarm"}
+      - Name: Pair3
+        Type: ValueMapPair
+        Children:
+        - Name: Key
+          Type: BaseDataVariableType
+          DataType: UInt32
+          Value: 10
+        - Name: Value
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"NamespaceIndex":4,"TextId":"_Status_Wait"}
+      - Name: Pair4
+        Type: ValueMapPair
+        Children:
+        - Name: Key
+          Type: BaseDataVariableType
+          DataType: UInt32
+          Value: 3
+        - Name: Value
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"NamespaceIndex":4,"TextId":"_Status_ON_BKW"}
+      - Name: Pair5
+        Type: ValueMapPair
+        Children:
+        - Name: Key
+          Type: BaseDataVariableType
+          DataType: UInt32
+          Value: 4
+        - Name: Value
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"NamespaceIndex":4,"TextId":"_FORWARD"}
+- Name: EV_Status
+  Type: ObjectLibraryItem
+  Children:
+  - Name: EV_Status
+    Id: g=ff3201c8e02da5e1a2cd71ca6b99e342
+    Supertype: ValueMapConverter
+    ReferenceType: HasComponent
+    Children:
+    - Name: Pairs
+      Type: BaseObjectType
+      ModellingRule: None
+      Children:
+      - Name: Pair
+        Type: ValueMapPair
+        Children:
+        - Name: Key
+          Type: BaseDataVariableType
+          DataType: UInt32
+          Value: 0
+        - Name: Value
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"NamespaceIndex":4,"TextId":"CLOSING"}
+      - Name: Pair1
+        Type: ValueMapPair
+        Children:
+        - Name: Key
+          Type: BaseDataVariableType
+          DataType: UInt32
+          Value: 1
+        - Name: Value
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"NamespaceIndex":4,"TextId":"OPENING"}
+      - Name: Pair2
+        Type: ValueMapPair
+        Children:
+        - Name: Key
+          Type: BaseDataVariableType
+          DataType: UInt32
+          Value: 2
+        - Name: Value
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"NamespaceIndex":4,"TextId":"_Status_Alarm"}
+      - Name: Pair3
+        Type: ValueMapPair
+        Children:
+        - Name: Key
+          Type: BaseDataVariableType
+          DataType: UInt32
+          Value: 10
+        - Name: Value
+          Type: BaseDataVariableType
+          DataType: LocalizedText
+          Value: {"NamespaceIndex":4,"TextId":"_Status_Wait"}
