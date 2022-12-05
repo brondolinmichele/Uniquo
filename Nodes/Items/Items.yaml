@@ -1380,3 +1380,7 @@ Children:
           Type: BaseDataVariableType
           DataType: LocalizedText
           Value: {"NamespaceIndex":4,"TextId":"_Status_Wait"}
+- Name: CLOCK
+  Type: ObjectLibraryItem
+  Children:
+  - File: CLOCK/CLOCK.yaml

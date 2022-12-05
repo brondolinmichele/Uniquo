@@ -15,5 +15,37 @@ Project:
    Uri: 'urn:QPlatform:HMIProject'
    Module: QPlatform.HMIProject
    Version: 11.0.0.134
+  5:
+   Uri: 'urn:QPlatform:Core:Net'
+   Module: QPlatform.Core.Net
+   Version: 8.0.0.136
+  6:
+   Uri: 'urn:QPlatform:CoreBase:Net'
+   Module: QPlatform.CoreBase.Net
+   Version: 5.0.6.303
+  7:
+   Uri: 'urn:QPlatform:UI'
+   Module: QPlatform.UI
+   Version: 46.0.0.5
+  8:
+   Uri: 'urn:QPlatform:UI:Net'
+   Module: QPlatform.UI.Net
+   Version: 34.0.0.5
+  9:
+   Uri: 'urn:QPlatform:HMIProject:Net'
+   Module: QPlatform.HMIProject.Net
+   Version: 6.1.5.303
+  10:
+   Uri: 'urn:QPlatform:System'
+   Module: QPlatform.System
+   Version: 2.0.11.302
+  11:
+   Uri: 'urn:QPlatform:System:Net'
+   Module: QPlatform.System.Net
+   Version: 2.0.11.303
+  12:
+   Uri: 'urn:QPlatform:NetLogic'
+   Module: QPlatform.NetLogic
+   Version: 6.0.0.152
  Nodes:
  - File: Nodes/Uniquo.yaml

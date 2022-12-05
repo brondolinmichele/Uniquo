@@ -57,7 +57,7 @@ Children:
   Value: 
    {
     "Type": 12,
-    "Dimensions": [11,3],
+    "Dimensions": [21,3],
     "Body": [
      "Key","it-IT","en-US",
      "HEATING CTRL POS.1","HEATING CTRL POS.1","HEATING CTRL POS.1",
@@ -69,6 +69,16 @@ Children:
      "_FORWARD","AVANTI","FORWARD",
      "_Status_ON_BKW","INDIETRO","BACKWARD",
      "OPENING","APERTURA","OPENING",
-     "CLOSING","CHIUSURA","CLOSING"
+     "CLOSING","CHIUSURA","CLOSING",
+     "ManualMode","Manuale","Manual",
+     "TimeZone","Fuso orario","Time zone",
+     "AutoMode","Automatica (Server NTP remoto)","Auto (Remote NTP server)",
+     "TimeSynchronizationMode","Modalit� sincronizzazione","Synchronization mode",
+     "RemoteNTPServer","Server NTP remoto","Remote NTP server",
+     "LocalNTPServerInterfaces","Interfacce locali server NTP","Local NTP server interfaces",
+     "DateAndTime","Data e ora","Date and time",
+     "LAN ","LAN ","LAN ",
+     "Apply","Applica","Apply",
+     "Close","Chiudi","Close"
     ]
    }
