@@ -40778,3 +40778,393 @@ Children:
 - Class: Reference
   Type: HasComponent
   Target: g=e267395cbcf5a25f8775069d0fbb90ad
+- Class: Reference
+  Type: HasComponent
+  Target: g=fcfc39e1255eb2047727bdc5d1b169b7
+- Class: Reference
+  Type: HasComponent
+  Target: g=b6b4b361f1eb3fabc65efd558f04a5e0
+- Class: Reference
+  Type: HasComponent
+  Target: g=42fff6e48e9a35814dcd9d8a7182023a
+- Class: Reference
+  Type: HasComponent
+  Target: g=d1e49f4fcd3e6542db2231dc7e771c7e
+- Class: Reference
+  Type: HasComponent
+  Target: g=a96a557dc572bd46397017b5fb58418e
+- Class: Reference
+  Type: HasComponent
+  Target: g=1e780a338ede96526e97f9a63a0cd591
+- Class: Reference
+  Type: HasComponent
+  Target: g=00d3b064326a9cff5330954a9ba31549
+- Class: Reference
+  Type: HasComponent
+  Target: g=00b04d5c7855cf06573bf6b0a389125b
+- Class: Reference
+  Type: HasComponent
+  Target: g=fc2ae34be411bc007e6fc2baf866bcc7
+- Class: Reference
+  Type: HasComponent
+  Target: g=bd78ade4c60c31a9a6fb2442de4429f0
+- Class: Reference
+  Type: HasComponent
+  Target: g=1c164400e3c13303dbd0ba33d768fad8
+- Class: Reference
+  Type: HasComponent
+  Target: g=56f4c8ea48febd93a9844cddf308d2c6
+- Class: Reference
+  Type: HasComponent
+  Target: g=e77106a91f2ff0efb8d1c2bef2e4b69a
+- Class: Reference
+  Type: HasComponent
+  Target: g=ec56f67a799c2ec4fc21ba82cd369dec
+- Class: Reference
+  Type: HasComponent
+  Target: g=72f7a69bea2abe43fdd39440c6564625
+- Class: Reference
+  Type: HasComponent
+  Target: g=f49418679e65194a221e2a27e0059c92
+- Class: Reference
+  Type: HasComponent
+  Target: g=b787372dab623e8e31241144c821b112
+- Class: Reference
+  Type: HasComponent
+  Target: g=a67a1e2724309ee52ca927b5e4442b1c
+- Class: Reference
+  Type: HasComponent
+  Target: g=fcfc39e1255eb2047727bdc5d1b169b7
+- Class: Reference
+  Type: HasComponent
+  Target: g=42fff6e48e9a35814dcd9d8a7182023a
+- Class: Reference
+  Type: HasComponent
+  Target: g=d1e49f4fcd3e6542db2231dc7e771c7e
+- Class: Reference
+  Type: HasComponent
+  Target: g=a96a557dc572bd46397017b5fb58418e
+- Class: Reference
+  Type: HasComponent
+  Target: g=1e780a338ede96526e97f9a63a0cd591
+- Class: Reference
+  Type: HasComponent
+  Target: g=00d3b064326a9cff5330954a9ba31549
+- Class: Reference
+  Type: HasComponent
+  Target: g=00b04d5c7855cf06573bf6b0a389125b
+- Class: Reference
+  Type: HasComponent
+  Target: g=fc2ae34be411bc007e6fc2baf866bcc7
+- Class: Reference
+  Type: HasComponent
+  Target: g=bd78ade4c60c31a9a6fb2442de4429f0
+- Class: Reference
+  Type: HasComponent
+  Target: g=1c164400e3c13303dbd0ba33d768fad8
+- Class: Reference
+  Type: HasComponent
+  Target: g=56f4c8ea48febd93a9844cddf308d2c6
+- Class: Reference
+  Type: HasComponent
+  Target: g=e77106a91f2ff0efb8d1c2bef2e4b69a
+- Class: Reference
+  Type: HasComponent
+  Target: g=ec56f67a799c2ec4fc21ba82cd369dec
+- Class: Reference
+  Type: HasComponent
+  Target: g=72f7a69bea2abe43fdd39440c6564625
+- Class: Reference
+  Type: HasComponent
+  Target: g=f49418679e65194a221e2a27e0059c92
+- Class: Reference
+  Type: HasComponent
+  Target: g=b787372dab623e8e31241144c821b112
+- Class: Reference
+  Type: HasComponent
+  Target: g=a67a1e2724309ee52ca927b5e4442b1c
+- Class: Reference
+  Type: HasComponent
+  Target: g=fcfc39e1255eb2047727bdc5d1b169b7
+- Class: Reference
+  Type: HasComponent
+  Target: g=b6b4b361f1eb3fabc65efd558f04a5e0
+- Class: Reference
+  Type: HasComponent
+  Target: g=42fff6e48e9a35814dcd9d8a7182023a
+- Class: Reference
+  Type: HasComponent
+  Target: g=d1e49f4fcd3e6542db2231dc7e771c7e
+- Class: Reference
+  Type: HasComponent
+  Target: g=a96a557dc572bd46397017b5fb58418e
+- Class: Reference
+  Type: HasComponent
+  Target: g=1e780a338ede96526e97f9a63a0cd591
+- Class: Reference
+  Type: HasComponent
+  Target: g=00d3b064326a9cff5330954a9ba31549
+- Class: Reference
+  Type: HasComponent
+  Target: g=00b04d5c7855cf06573bf6b0a389125b
+- Class: Reference
+  Type: HasComponent
+  Target: g=fc2ae34be411bc007e6fc2baf866bcc7
+- Class: Reference
+  Type: HasComponent
+  Target: g=bd78ade4c60c31a9a6fb2442de4429f0
+- Class: Reference
+  Type: HasComponent
+  Target: g=1c164400e3c13303dbd0ba33d768fad8
+- Class: Reference
+  Type: HasComponent
+  Target: g=56f4c8ea48febd93a9844cddf308d2c6
+- Class: Reference
+  Type: HasComponent
+  Target: g=e77106a91f2ff0efb8d1c2bef2e4b69a
+- Class: Reference
+  Type: HasComponent
+  Target: g=ec56f67a799c2ec4fc21ba82cd369dec
+- Class: Reference
+  Type: HasComponent
+  Target: g=72f7a69bea2abe43fdd39440c6564625
+- Class: Reference
+  Type: HasComponent
+  Target: g=f49418679e65194a221e2a27e0059c92
+- Class: Reference
+  Type: HasComponent
+  Target: g=b787372dab623e8e31241144c821b112
+- Class: Reference
+  Type: HasComponent
+  Target: g=a67a1e2724309ee52ca927b5e4442b1c
+- Class: Reference
+  Type: HasComponent
+  Target: g=fcfc39e1255eb2047727bdc5d1b169b7
+- Class: Reference
+  Type: HasComponent
+  Target: g=42fff6e48e9a35814dcd9d8a7182023a
+- Class: Reference
+  Type: HasComponent
+  Target: g=d1e49f4fcd3e6542db2231dc7e771c7e
+- Class: Reference
+  Type: HasComponent
+  Target: g=a96a557dc572bd46397017b5fb58418e
+- Class: Reference
+  Type: HasComponent
+  Target: g=1e780a338ede96526e97f9a63a0cd591
+- Class: Reference
+  Type: HasComponent
+  Target: g=00d3b064326a9cff5330954a9ba31549
+- Class: Reference
+  Type: HasComponent
+  Target: g=00b04d5c7855cf06573bf6b0a389125b
+- Class: Reference
+  Type: HasComponent
+  Target: g=fc2ae34be411bc007e6fc2baf866bcc7
+- Class: Reference
+  Type: HasComponent
+  Target: g=bd78ade4c60c31a9a6fb2442de4429f0
+- Class: Reference
+  Type: HasComponent
+  Target: g=1c164400e3c13303dbd0ba33d768fad8
+- Class: Reference
+  Type: HasComponent
+  Target: g=56f4c8ea48febd93a9844cddf308d2c6
+- Class: Reference
+  Type: HasComponent
+  Target: g=e77106a91f2ff0efb8d1c2bef2e4b69a
+- Class: Reference
+  Type: HasComponent
+  Target: g=ec56f67a799c2ec4fc21ba82cd369dec
+- Class: Reference
+  Type: HasComponent
+  Target: g=72f7a69bea2abe43fdd39440c6564625
+- Class: Reference
+  Type: HasComponent
+  Target: g=f49418679e65194a221e2a27e0059c92
+- Class: Reference
+  Type: HasComponent
+  Target: g=b787372dab623e8e31241144c821b112
+- Class: Reference
+  Type: HasComponent
+  Target: g=a67a1e2724309ee52ca927b5e4442b1c
+- Class: Reference
+  Type: HasComponent
+  Target: g=3fcb5dbdce46cb751bae085ef5b97016
+- Class: Reference
+  Type: HasComponent
+  Target: g=99818c138ce81c2bdc9a4ef865da6d6c
+- Class: Reference
+  Type: HasComponent
+  Target: g=fae5627f0918fec7aea8a9ea6451e6bc
+- Class: Reference
+  Type: HasComponent
+  Target: g=82af0904566edad457efc4591cd6a8fc
+- Class: Reference
+  Type: HasComponent
+  Target: g=dcdef000e117241d4eabffccde5c7840
+- Class: Reference
+  Type: HasComponent
+  Target: g=36ffa4199527fa414bc4501c8ddc2874
+- Class: Reference
+  Type: HasComponent
+  Target: g=bfd3b35ae9cc5d28c3370b36d4e35a87
+- Class: Reference
+  Type: HasComponent
+  Target: g=f8624d43779028f3d24a11c05327131a
+- Class: Reference
+  Type: HasComponent
+  Target: g=e267395cbcf5a25f8775069d0fbb90ad
+- Name: DBM_Button_Set
+  Id: g=074c6fc8e1d91f7f12b3c82bda7a2888
+  Supertype: Button
+  ReferenceType: HasComponent
+  Children:
+  - Name: Text
+    Type: BaseDataVariableType
+    DataType: LocalizedText
+    ModellingRule: Optional
+    Value: {"NamespaceIndex":4,"TextId":"Button1"}
+  - Name: BackgroundColor
+    Type: BaseDataVariableType
+    DataType: Color
+    Value: "#00000000"
+    Children:
+    - Name: KeyValueConverter1
+      Type: ValueMapConverter
+      Children:
+      - Name: Source
+        Type: BaseDataVariableType
+        DataType: BaseDataType
+        ReferenceType: HasSource
+        Children:
+        - Name: DynamicLink
+          Type: DataBind
+          DataType: NodePath
+          Value: "../../../To_Set"
+      - Name: Pairs
+        Type: BaseObjectType
+        ModellingRule: None
+        Children:
+        - Name: Pair
+          Type: ValueMapPair
+          Children:
+          - Name: Key
+            Type: BaseDataVariableType
+            DataType: Boolean
+            Value: false
+          - Name: Value
+            Type: BaseDataVariableType
+            DataType: Color
+            Value: "#e4e4e4"
+        - Name: Pair1
+          Type: ValueMapPair
+          Children:
+          - Name: Key
+            Type: BaseDataVariableType
+            DataType: Boolean
+            Value: true
+          - Name: Value
+            Type: BaseDataVariableType
+            DataType: Color
+            Value: "#90ee90"
+  - Name: To_Set
+    Type: BaseDataVariableType
+    DataType: Boolean
+    Value: false
+  - Name: MouseClickEventHandler1
+    Type: EventHandler
+    Children:
+    - Name: ListenEventType
+      Type: PropertyType
+      DataType: NodeId
+      Value: {"Id":16,"Namespace":7}
+    - Name: MethodsToCall
+      Type: BaseObjectType
+      Children:
+      - Name: MethodContainer1
+        Type: BaseObjectType
+        Children:
+        - Name: ns=2;ObjectPointer
+          Type: NodePointer
+          DataType: NodeId
+          Value: {"Id":22,"Namespace":2}
+          Children:
+          - Name: Kind
+            Type: PropertyType
+            DataType: NodeId
+            Value: {"Id":58}
+        - Name: ns=2;Method
+          Type: BaseDataVariableType
+          DataType: String
+          Value: "Set"
+        - Name: InputArguments
+          Type: BaseObjectType
+          Children:
+          - Name: VariableToModify
+            Type: BaseDataVariableType
+            DataType: VariablePointer
+            Description: {"NamespaceIndex":2,"TextId":"SetVariableToModifyDescription"}
+            Value: {"IdType":0,"Id":0,"Namespace":-1}
+            Children:
+            - Name: DynamicLink
+              Type: DataBind
+              DataType: NodePath
+              Value: "../../../../../To_Set@NodeId"
+              Children:
+              - Name: Mode
+                Type: BaseVariableType
+                DataType: DataBindModeType
+                ModellingRule: Optional
+                Value: 2
+          - Name: Value
+            Type: BaseDataVariableType
+            DataType: Boolean
+            Description: {"NamespaceIndex":2,"TextId":"SetValueDescription"}
+            Value: true
+          - Name: ArrayIndex
+            Type: BaseDataVariableType
+            DataType: UInt32
+            Description: {"NamespaceIndex":2,"TextId":"SetArrayIndexDescription"}
+            ValueRank: ScalarOrOneDimension
+            Value: 0
+    - Name: EventArguments
+      Type: MouseClickEvent
+      Children:
+      - Name: EventId
+        Type: PropertyType
+        DataType: ByteString
+        Value: ""
+      - Name: EventType
+        Type: PropertyType
+        DataType: NodeId
+        Value: {"IdType":0,"Id":0,"Namespace":-1}
+      - Name: SourceNode
+        Type: PropertyType
+        DataType: NodeId
+        Value: {"IdType":0,"Id":0,"Namespace":-1}
+      - Name: SourceName
+        Type: PropertyType
+        DataType: String
+        Value: ""
+      - Name: Time
+        Type: PropertyType
+        DataType: UtcTime
+        Value: "1601-01-01T00:00:00.0000000"
+      - Name: ReceiveTime
+        Type: PropertyType
+        DataType: UtcTime
+        Value: "1601-01-01T00:00:00.0000000"
+      - Name: Message
+        Type: PropertyType
+        DataType: LocalizedText
+        Value: {"NamespaceIndex":-1,"LocaleId":"","Text":""}
+      - Name: Severity
+        Type: PropertyType
+        DataType: UInt16
+        Value: 0
+  - Name: Appearance
+    Type: BaseVariableType
+    DataType: String
+    ModellingRule: Optional
+    Value: ""
