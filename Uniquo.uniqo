@@ -63,5 +63,21 @@ Project:
    Uri: 'urn:QPlatform:S7TCP:Net'
    Module: QPlatform.S7TCP.Net
    Version: 5.0.0.4
+  17:
+   Uri: 'urn:QPlatform:EventLogger'
+   Module: QPlatform.EventLogger
+   Version: 7.0.14.303
+  18:
+   Uri: 'urn:QPlatform:EventLogger:Net'
+   Module: QPlatform.EventLogger.Net
+   Version: 6.0.14.303
+  19:
+   Uri: 'urn:QPlatform:Alarm'
+   Module: QPlatform.Alarm
+   Version: 7.1.0.294
+  20:
+   Uri: 'urn:QPlatform:Alarm:Net'
+   Module: QPlatform.Alarm.Net
+   Version: 3.1.0.294
  Nodes:
  - File: Nodes/Uniquo.yaml
